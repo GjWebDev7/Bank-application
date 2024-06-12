@@ -24,23 +24,8 @@
         <li>CSS</li>
         <li>JavaScript</li>
     </ul>
-    <h2>Getting Started</h2>
-    <h3>Installation</h3>
-    <ol>
-        <li>Clone the repository to your local machine:</li>
-        <code>git clone https://github.com/GjWebDev7/Rollup-Challange.git</code>
-        <li>Navigate to the project directory:</li>
-        <code>cd Rollup-Challange</code>
-    </ol>
-    <h3>How to Run</h3>
-    <p>To run the project, simply open the <code>index.html</code> file in your preferred web browser.</p>
-    <ol>
-        <li>Open the <code>index.html</code> file in your code editor.</li>
-        <li>Right-click on the file and select an option like "Open with" followed by your preferred web browser.</li>
-        <li>Alternatively, you can directly drag and drop the <code>index.html</code> file into your web browser.</li>
-    </ol>
      <h2>Deployment:</h2>
-    <p>Rollup Challenge is deployed on GitHub Pages and Netlify for convenient access:</p>
+    <p>Bank application is deployed on GitHub Pages and Netlify for convenient access:</p>
     <ul>
         <li>GitHub Pages: <a href="https://gjwebdev7.github.io/Bank-application/">Link to GitHub Pages deployment</a></li>
         <li>Netlify: <a href="https://gjwebdevbank.netlify.app/">Link to Netlify deployment</a></li>
