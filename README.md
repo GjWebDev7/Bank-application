@@ -1,5 +1,3 @@
-# Bank-application
-
 # Bank Account Management System
 
 This project is a simple bank account management system that allows users to log in, view their account details, perform transactions, request loans, and manage their account settings. The system features a user-friendly interface built with HTML, CSS, and JavaScript.
@@ -61,3 +59,7 @@ This project is a simple bank account management system that allows users to log
 ## Testing Credentials:
    - User 1: Gaurav (Username: gj, PIN: 1111)
    - User 2: Souman (Username: sp, PIN: 2222)
+
+## Deployment URL
+
+You can access the live version of the Bank Account Management System at: https://gjwebdevbank.netlify.app/
