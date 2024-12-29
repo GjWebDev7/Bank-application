@@ -16,7 +16,7 @@ const account2 = {
 };
 
 // Store all accounts in a single array
-const accounts = [account1, account2, account3];
+const accounts = [account1, account2];
 
 // DOM Elements: Store references to UI elements for interaction and display
 const labelWelcome = document.querySelector(".welcome"); // Welcome message
